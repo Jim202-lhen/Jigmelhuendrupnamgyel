@@ -1,0 +1,114 @@
+{
+"Sheet1":[
+ {
+  "Sl . No": 1,
+  "Student No.": 7230029,
+  "Student Name": "Jigme lhuendrup",
+  "Presentation": 6.5,
+  "Content": 9,
+  "Viva": 9,
+  "Report": 51.25,
+  "Out of 100": 75.5,
+  "Out of 20": 15.3
+ },
+ {
+  "Sl . No": 2,
+  "Student No.": 7230030,
+  "Student Name": "Karma Dorji",
+  "Presentation": 2,
+  "Content": 8,
+  "Viva": 1,
+  "Report": 43.4,
+  "Out of 100": 50,
+  "Out of 20": 15
+ },
+ {
+  "Sl . No": 3,
+  "Student No.": 7230031,
+  "Student Name": "Sonam Dorji",
+  "Presentation": 6,
+  "Content": 8,
+  "Viva": 5,
+  "Report": 45.23,
+  "Out of 100": 80,
+  "Out of 20": 8
+ },
+ {
+  "Sl . No": 4,
+  "Student No.": 7230032,
+  "Student Name": "Karma Wangmo",
+  "Presentation": 6,
+  "Content": 8,
+  "Viva": 4,
+  "Report": 36.55,
+  "Out of 100": 75,
+  "Out of 20": 19
+ },
+ {
+  "Sl . No": 5,
+  "Student No.": 7230033,
+  "Student Name": "Sangay Wangmo",
+  "Presentation": 1,
+  "Content": 7,
+  "Viva": 9,
+  "Report": 60.55,
+  "Out of 100": 72,
+  "Out of 20": 16
+ },
+ {
+  "Sl . No": 6,
+  "Student No.": 7230034,
+  "Student Name": "Sonam Lhamo",
+  "Presentation": 6,
+  "Content": 6,
+  "Viva": 7,
+  "Report": 30.35,
+  "Out of 100": 97,
+  "Out of 20": 18
+ },
+ {
+  "Sl . No": 7,
+  "Student No.": 7230035,
+  "Student Name": "Jigme Namgyel",
+  "Presentation": 3,
+  "Content": 3,
+  "Viva": 6,
+  "Report": 35.75,
+  "Out of 100": 60,
+  "Out of 20": 15
+ },
+ {
+  "Sl . No": 8,
+  "Student No.": 7230036,
+  "Student Name": "Manita Gurung",
+  "Presentation": 4,
+  "Content": 2,
+  "Viva": 6,
+  "Report": 31,
+  "Out of 100": 49,
+  "Out of 20": 5
+ },
+ {
+  "Sl . No": 9,
+  "Student No.": 7230037,
+  "Student Name": "Karma Sonam",
+  "Presentation": 5,
+  "Content": 6,
+  "Viva": 6,
+  "Report": 43,
+  "Out of 100": 77,
+  "Out of 20": 6
+ },
+ {
+  "Sl . No": 10,
+  "Student No.": 7230038,
+  "Student Name": "Dorji Wnagchuk",
+  "Presentation": 7,
+  "Content": 4,
+  "Viva": 9,
+  "Report": 31,
+  "Out of 100": 90,
+  "Out of 20": 14
+ }
+]
+}
